@@ -6,6 +6,12 @@ A compact high-voltage corona discharge experiment built from a small voltage bo
 	<img src="Images/project%20screenshot.jpg" alt="Project showcase" width="280" />
 </p>
 
+<p align="center">
+	<a href="https://youtu.be/NKuL_hMG0Qg">
+		<img src="https://img.shields.io/badge/YouTube-Watch%20the%20video-red?logo=youtube&logoColor=white" alt="Watch the video" />
+	</a>
+</p>
+
 ## Quick Facts
 
 - **Power input:** old Sony Ericsson charger, roughly 3-5 V DC
