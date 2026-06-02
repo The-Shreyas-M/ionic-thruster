@@ -1,7 +1,7 @@
 # Ionic Thruster / Corona Discharge Demo
 
 <p align="center">
-  <a href="https://youtu.be/NKuL_hMG0Qg">
+  <a href="https://youtube.com/shorts/Wv82mvsiyNE/">
     <img src="https://img.shields.io/badge/Watch%20the%20Video-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the video" />
   </a>
 </p>
