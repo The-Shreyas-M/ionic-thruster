@@ -1,8 +1,17 @@
 # Ionic Thruster / Corona Discharge Demo
 
-A compact high-voltage corona discharge experiment built from a small voltage booster, a shaped steel funnel, and a cardboard base. The goal of the build is to create a smooth, focused electrode shape that encourages corona discharge at the open end while the other lead is bonded to the funnel.
+A compact high-voltage corona discharge experiment built from a small voltage booster, a shaped steel funnel, and a cardboard base. The design focuses on a smooth electrode shape so the discharge is concentrated at the open end.
 
-![Project showcase](Images/project%20screenshot.jpg)
+<p align="center">
+	<img src="Images/project%20screenshot.jpg" alt="Project showcase" width="520" />
+</p>
+
+## Quick Facts
+
+- **Power input:** old Sony Ericsson charger, roughly 3-5 V DC
+- **High voltage:** around 20 kV from the booster module
+- **Base:** cardboard box for mounting and spacing
+- **Electrode:** shaped steel sheet / foil with a smooth funnel profile
 
 ## Overview
 
@@ -31,19 +40,27 @@ The high-voltage outputs from the booster are treated as two interchangeable lea
 ### 1. Prepare the base
 Use a cardboard box or any non-conductive base that can hold the components securely. Mount everything so the high-voltage section stays fixed and away from loose objects.
 
-![Cardboard base](Images/cardboard_box_as_base.jpg)
+<p align="center">
+	<img src="Images/cardboard_box_as_base.jpg" alt="Cardboard base" width="420" />
+</p>
 
 ### 2. Shape the electrode
 Take the steel sheet and form it into a smooth funnel shape. The rounded start of the funnel helps concentrate the electric field and makes corona discharge easier to observe.
 
-![Steel funnel electrode](Images/steel_foil.jpg)
+<p align="center">
+	<img src="Images/steel_foil.jpg" alt="Steel funnel electrode" width="420" />
+</p>
 
 ### 3. Wire the low-voltage input
 Connect the input side of the booster to the charger output through a stripped USB cable or equivalent low-voltage lead. Make sure the input matches the booster module’s expected supply range.
 
-![USB cable input](Images/stripped_usb_cable.jpg)
+<p align="center">
+	<img src="Images/stripped_usb_cable.jpg" alt="USB cable input" width="320" />
+</p>
 
-![USB charger used as source](Images/usb_charger.jpg)
+<p align="center">
+	<img src="Images/usb_charger.jpg" alt="USB charger used as source" width="320" />
+</p>
 
 ### 4. Connect the high-voltage side
 Attach one high-voltage output lead to the funnel-shaped metal piece. Leave the other lead open, with the wire ends separated slightly so the electric field can break down the air at the exposed end.
@@ -51,12 +68,16 @@ Attach one high-voltage output lead to the funnel-shaped metal piece. Leave the 
 ### 5. Mount the booster
 Secure the voltage booster module on the base and keep the wiring tidy. High-voltage modules can arc unexpectedly, so spacing and insulation matter.
 
-![Voltage booster module](Images/voltage_booster_module.jpg)
+<p align="center">
+	<img src="Images/voltage_booster_module.jpg" alt="Voltage booster module" width="320" />
+</p>
 
 ### 6. Test the setup
 Power the booster briefly and observe the corona discharge. In the build photo, the discharge is visible near the funnel electrode while the rest of the setup remains fixed on the base.
 
-![Live test / discharge](Images/project%20screenshot.jpg)
+<p align="center">
+	<img src="Images/project%20screenshot.jpg" alt="Live test / discharge" width="520" />
+</p>
 
 ## How It Works
 
@@ -75,22 +96,3 @@ High voltage is dangerous even when the current seems small.
 - Expect ozone and sharp electrical odor during corona discharge
 - Use insulated tools and keep bystanders away
 
-## Suggested GitHub README Additions
-
-If you want this repo to feel more complete, add:
-
-- A short YouTube link once the video is published
-- A wiring diagram
-- A labeled parts list with exact model numbers
-- A short theory section explaining corona discharge and electric field concentration
-- A final results section with observations and lessons learned
-
-## Video Placeholder
-
-When your YouTube video is ready, add it here:
-
-`[Watch the build video](https://youtube.com/your-video-link)`
-
-## License
-
-If you want, you can add a simple license for the documentation and photos, such as MIT for text and your preferred photo usage terms.
