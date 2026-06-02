@@ -3,7 +3,7 @@
 A compact high-voltage corona discharge experiment built from a small voltage booster, a shaped steel funnel, and a cardboard base. The design focuses on a smooth electrode shape so the discharge is concentrated at the open end.
 
 <p align="center">
-	<img src="Images/project%20screenshot.jpg" alt="Project showcase" width="520" />
+	<img src="Images/project%20screenshot.jpg" alt="Project showcase" width="420" />
 </p>
 
 ## Quick Facts
@@ -55,11 +55,11 @@ Take the steel sheet and form it into a smooth funnel shape. The rounded start o
 Connect the input side of the booster to the charger output through a stripped USB cable or equivalent low-voltage lead. Make sure the input matches the booster module’s expected supply range.
 
 <p align="center">
-	<img src="Images/stripped_usb_cable.jpg" alt="USB cable input" width="320" />
+	<img src="Images/stripped_usb_cable.jpg" alt="USB cable input" width="420" />
 </p>
 
 <p align="center">
-	<img src="Images/usb_charger.jpg" alt="USB charger used as source" width="320" />
+	<img src="Images/usb_charger.jpg" alt="USB charger used as source" width="420" />
 </p>
 
 ### 4. Connect the high-voltage side
@@ -69,14 +69,14 @@ Attach one high-voltage output lead to the funnel-shaped metal piece. Leave the 
 Secure the voltage booster module on the base and keep the wiring tidy. High-voltage modules can arc unexpectedly, so spacing and insulation matter.
 
 <p align="center">
-	<img src="Images/voltage_booster_module.jpg" alt="Voltage booster module" width="320" />
+	<img src="Images/voltage_booster_module.jpg" alt="Voltage booster module" width="420" />
 </p>
 
 ### 6. Test the setup
 Power the booster briefly and observe the corona discharge. In the build photo, the discharge is visible near the funnel electrode while the rest of the setup remains fixed on the base.
 
 <p align="center">
-	<img src="Images/project%20screenshot.jpg" alt="Live test / discharge" width="520" />
+	<img src="Images/project%20screenshot.jpg" alt="Live test / discharge" width="420" />
 </p>
 
 ## How It Works
