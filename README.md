@@ -3,7 +3,7 @@
 A compact high-voltage corona discharge experiment built from a small voltage booster, a shaped steel funnel, and a cardboard base. The design focuses on a smooth electrode shape so the discharge is concentrated at the open end.
 
 <p align="center">
-	<img src="Images/project%20screenshot.jpg" alt="Project showcase" width="420" />
+	<img src="Images/project%20screenshot.jpg" alt="Project showcase" width="280" />
 </p>
 
 ## Quick Facts
@@ -41,25 +41,25 @@ The high-voltage outputs from the booster are treated as two interchangeable lea
 Use a cardboard box or any non-conductive base that can hold the components securely. Mount everything so the high-voltage section stays fixed and away from loose objects.
 
 <p align="center">
-	<img src="Images/cardboard_box_as_base.jpg" alt="Cardboard base" width="420" />
+	<img src="Images/cardboard_box_as_base.jpg" alt="Cardboard base" width="280" />
 </p>
 
 ### 2. Shape the electrode
 Take the steel sheet and form it into a smooth funnel shape. The rounded start of the funnel helps concentrate the electric field and makes corona discharge easier to observe.
 
 <p align="center">
-	<img src="Images/steel_foil.jpg" alt="Steel funnel electrode" width="420" />
+	<img src="Images/steel_foil.jpg" alt="Steel funnel electrode" width="280" />
 </p>
 
 ### 3. Wire the low-voltage input
 Connect the input side of the booster to the charger output through a stripped USB cable or equivalent low-voltage lead. Make sure the input matches the booster module’s expected supply range.
 
 <p align="center">
-	<img src="Images/stripped_usb_cable.jpg" alt="USB cable input" width="420" />
+	<img src="Images/stripped_usb_cable.jpg" alt="USB cable input" width="280" />
 </p>
 
 <p align="center">
-	<img src="Images/usb_charger.jpg" alt="USB charger used as source" width="420" />
+	<img src="Images/usb_charger.jpg" alt="USB charger used as source" width="280" />
 </p>
 
 ### 4. Connect the high-voltage side
@@ -69,14 +69,14 @@ Attach one high-voltage output lead to the funnel-shaped metal piece. Leave the 
 Secure the voltage booster module on the base and keep the wiring tidy. High-voltage modules can arc unexpectedly, so spacing and insulation matter.
 
 <p align="center">
-	<img src="Images/voltage_booster_module.jpg" alt="Voltage booster module" width="420" />
+	<img src="Images/voltage_booster_module.jpg" alt="Voltage booster module" width="280" />
 </p>
 
 ### 6. Test the setup
 Power the booster briefly and observe the corona discharge. In the build photo, the discharge is visible near the funnel electrode while the rest of the setup remains fixed on the base.
 
 <p align="center">
-	<img src="Images/project%20screenshot.jpg" alt="Live test / discharge" width="420" />
+	<img src="Images/project%20screenshot.jpg" alt="Live test / discharge" width="280" />
 </p>
 
 ## How It Works
